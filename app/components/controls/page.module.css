@@ -1,0 +1,9 @@
+.plusSign{
+    cursor: pointer;
+  }
+
+  .pagenate-text{
+    font-size: 12px;
+    color: gray;
+    
+  }
